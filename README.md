@@ -2,7 +2,7 @@ Hey, I'm Lusanda Zuma, you can call me Lulu
 
 I'm a South African-based tech enthusiast who's excited about the prospect of furthering her career in cloud security.
 
-More abobut me:
+More about me:
 
 - 🌼 I’m a creative individual who delved into front-end development at the beginning of my journey
 - 🖥️ I’m enrolled in an IT diploma
